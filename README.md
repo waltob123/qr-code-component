@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-062NU-r6g_)
+- Live Site URL: [Live site URL](https://waltob123.github.io/qr-code-component/)
 
 ## My process
 
